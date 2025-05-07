@@ -1,9 +1,14 @@
-import React from "react";
+import React from 'react'
+import Banner from '../Banner/Banner'
+import WhatWeDoSection from '../WhatDo/WhatDo'
 
-const Banner = () => {
+function LandingPage() {
   return (
-   <Banner/>
-  );
-};
+    <div>
+      <Banner/>
+      <WhatWeDoSection/>
+    </div>
+  )
+}
 
-export default Banner;
+export default LandingPage
