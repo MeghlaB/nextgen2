@@ -34,7 +34,7 @@ function Choose() {
         WHY CHOOSE JIN?
       </h1>
 
-      <div className="flex flex-col md:flex-row  py-5 max-w-6xl mx-auto rounded-lg overflow-hidden shadow-lg">
+      <div className="flex flex-col md:flex-row  py-5 max-w-6xl mx-auto ">
         {/* Left side */}
         <div className="w-full md:w-1/2 p-6 text-gray-900">
           <h2 className="text-5xl font-bold mb-4">
