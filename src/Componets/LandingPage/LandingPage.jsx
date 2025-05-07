@@ -2,6 +2,7 @@ import React from 'react'
 import Banner from '../Banner/Banner'
 import WhatWeDoSection from '../WhatDo/WhatDo'
 import ClientsSection from '../Client/OurClient'
+import Choose from '../Choose/Choose'
 
 function LandingPage() {
   return (
@@ -9,6 +10,7 @@ function LandingPage() {
       <Banner/>
       <WhatWeDoSection/>
       <ClientsSection/>
+      <Choose/>
     </div>
   )
 }
