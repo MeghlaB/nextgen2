@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="bg-black text-white p-10 px-12">
+    <footer className="bg-black text-white py-6 px-12">
       <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-5 gap-6">
         {/* Company Info */}
         <nav className="flex flex-col">
