@@ -13,6 +13,7 @@ import ClientTestimonial from '../ClientTestimonial/ClientTestimonial'
 import OurPortfolio from '../Protfolio/OurPortfolio'
 import GreatWebsiteSection from '../GreatWebsiteSection/GreatWebsiteSection'
 import FreeTips_Tricks from '../FreeTips&Tricks/FreeTips&Tricks'
+import PlatformExpertiseSection from '../PlatformExpertiseSection/PlatformExpertiseSection'
 
 function LandingPage() {
   return (
@@ -29,6 +30,7 @@ function LandingPage() {
       <OurPortfolio/>
       <GreatWebsiteSection/>
       <FreeTips_Tricks/>
+      <PlatformExpertiseSection/>
       <Questions/>
     </div>
   )
