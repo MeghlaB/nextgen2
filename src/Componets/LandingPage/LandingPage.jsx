@@ -5,6 +5,7 @@ import ClientsSection from '../Client/OurClient'
 import Choose from '../Choose/Choose'
 import CreatingProcess from '../CreatingProcess/CreatingProcess'
 import Questions from '../QUestion/Questions'
+import WebDesignSteps from '../WebStepdesign/WebStepdesign'
 
 function LandingPage() {
   return (
@@ -13,6 +14,7 @@ function LandingPage() {
       <WhatWeDoSection/>
       <ClientsSection/>
       <Choose/>
+     <WebDesignSteps/>
       {/* <CreatingProcess/> */}
       <Questions/>
     </div>

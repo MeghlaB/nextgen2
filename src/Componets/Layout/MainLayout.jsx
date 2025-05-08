@@ -6,7 +6,7 @@ import Navbar from '../Navbar/Navbar'
 
 function MainLayout() {
   return (
-    <div className=''>
+    <div className='bg-black'>
     <Navbar/>
        <div className="min-h-[calc(100vh-288px)] mb-15">
         <Outlet />
