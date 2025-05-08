@@ -7,6 +7,7 @@ import CreatingProcess from '../CreatingProcess/CreatingProcess'
 import Questions from '../QUestion/Questions'
 import WebDesignSteps from '../WebStepdesign/WebStepdesign'
 import Webcontact from '../Webcontact/Webcontact'
+import DeviceShowcase from '../DeviceShowcase/DeviceShowcase'
 
 function LandingPage() {
   return (
@@ -17,6 +18,7 @@ function LandingPage() {
       <Choose/>
      <WebDesignSteps/>
       <Webcontact/>
+      <DeviceShowcase/>
       <Questions/>
     </div>
   )
