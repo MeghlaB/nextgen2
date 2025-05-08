@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Ayesha Siddique",
+      "position": "Marketing Manager",
+      "image": "https://i.ibb.co/9vw1dFH/client1.jpg",
+      "feedback": "This platform has transformed the way we work. The experience was smooth and the team was very responsive. Highly recommended!"
+    },
+    {
+      "id": 2,
+      "name": "Rahim Uddin",
+      "position": "Startup Founder",
+      "image": "https://i.ibb.co/DYKJvYh/client2.jpg",
+      "feedback": "Excellent service and great support. I’m truly impressed by the quality and dedication of the team."
+    },
+    {
+      "id": 3,
+      "name": "Sharmin Akter",
+      "position": "HR Specialist",
+      "image": "https://i.ibb.co/JjYbpJR/client3.jpg",
+      "feedback": "They listened to our needs carefully and delivered exactly what we needed. Their professionalism is top-notch."
+    },
+    {
+      "id": 4,
+      "name": "Tanvir Hasan",
+      "position": "Creative Director",
+      "image": "https://i.ibb.co/wKWGnP4/client4.jpg",
+      "feedback": "A truly delightful experience. The design and performance exceeded our expectations."
+    }
+  ]
+  

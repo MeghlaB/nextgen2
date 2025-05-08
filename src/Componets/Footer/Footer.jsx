@@ -6,7 +6,7 @@ function Footer() {
       <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-5 gap-6">
         {/* Company Info */}
         <nav className="flex flex-col">
-          <h1 className="text-4xl font-bold text-amber-600">JIN</h1>
+          <h1 className="text-4xl font-bold text-amber-600">NEXTGEN</h1>
           <p className="mt-2 text-lg">
             Based in Singapore, we’re a one-stop website agency providing
             services such as design, development, enhancement, and maintenance
@@ -56,7 +56,7 @@ function Footer() {
       <div className=" border-white border text-white mt-8"></div>
       <div className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center px-8 py-2">
       <aside className="grid-flow-col items-center">
-      <h1 className="text-4xl font-bold text-amber-600">JIN</h1>
+      <h1 className="text-4xl font-bold text-amber-600">NEXTGEN</h1>
     <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
   </aside>
   <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">

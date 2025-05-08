@@ -16,7 +16,7 @@ function Navbar() {
       } bg-black`}
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-4">
-        <div className="text-2xl font-bold text-white">JIN</div>
+        <div className="text-2xl font-bold text-white">NextGen</div>
 
         <div className="flex items-center space-x-6 text-white font-medium">
           <Link

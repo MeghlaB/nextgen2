@@ -31,7 +31,7 @@ function Choose() {
   return (
     <div className="py-16 w-full px-6 md:px-16 bg-white">
       <h1 className="text-amber-600 text-xl md:text-2xl font-semibold px-20">
-        WHY CHOOSE JIN?
+        WHY CHOOSE NEXTGEN?
       </h1>
 
       <div className="flex flex-col md:flex-row  py-5 max-w-6xl mx-auto ">
