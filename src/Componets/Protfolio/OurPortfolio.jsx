@@ -5,7 +5,7 @@ function OurPortfolio() {
   const [project, setProjects] = useState([]);
 
   useEffect(() => {
-    fetch("/portfolio.json") // ✅ public/ দেওয়া লাগবে না
+    fetch("/portfolio.json") 
       .then((res) => res.json())
       .then((data) => {
         setProjects(data);
@@ -53,8 +53,8 @@ function OurPortfolio() {
                   />
                 </figure>
                 {/* Hover overlay */}
-                <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-                  <h2 className="text-white text-xl font-semibold">
+                <div className="absolute inset-0  flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
+                  <h2 className="text-orange-600 text-xl font-semibold">
                     {project.title}
                   </h2>
                 </div>

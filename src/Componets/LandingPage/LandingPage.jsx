@@ -11,6 +11,7 @@ import DeviceShowcase from '../DeviceShowcase/DeviceShowcase'
 import CyberSecuritySection from '../CyberSecuritySection/CyberSecuritySection'
 import ClientTestimonial from '../ClientTestimonial/ClientTestimonial'
 import OurPortfolio from '../Protfolio/OurPortfolio'
+import GreatWebsiteSection from '../GreatWebsiteSection/GreatWebsiteSection'
 
 function LandingPage() {
   return (
@@ -25,6 +26,7 @@ function LandingPage() {
       <CyberSecuritySection/>
       <ClientTestimonial/>
       <OurPortfolio/>
+      <GreatWebsiteSection/>
       <Questions/>
     </div>
   )
