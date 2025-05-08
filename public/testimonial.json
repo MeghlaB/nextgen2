@@ -3,29 +3,106 @@
       "id": 1,
       "name": "Ayesha Siddique",
       "position": "Marketing Manager",
-      "image": "https://i.ibb.co/9vw1dFH/client1.jpg",
-      "feedback": "This platform has transformed the way we work. The experience was smooth and the team was very responsive. Highly recommended!"
+      "feedback": "This platform has transformed the way we work. The experience was smooth and the team was very responsive. Highly recommended!",
+      "brand": "Singlife"
     },
     {
       "id": 2,
       "name": "Rahim Uddin",
       "position": "Startup Founder",
-      "image": "https://i.ibb.co/DYKJvYh/client2.jpg",
-      "feedback": "Excellent service and great support. I’m truly impressed by the quality and dedication of the team."
+
+      "feedback": "Excellent service and great support. I’m truly impressed by the quality and dedication of the team.",
+      "brand": "UOB"
     },
     {
       "id": 3,
       "name": "Sharmin Akter",
       "position": "HR Specialist",
-      "image": "https://i.ibb.co/JjYbpJR/client3.jpg",
-      "feedback": "They listened to our needs carefully and delivered exactly what we needed. Their professionalism is top-notch."
+  
+      "feedback": "They listened to our needs carefully and delivered exactly what we needed. Their professionalism is top-notch.",
+      "brand": "Phillip Futures"
     },
     {
       "id": 4,
       "name": "Tanvir Hasan",
       "position": "Creative Director",
-      "image": "https://i.ibb.co/wKWGnP4/client4.jpg",
-      "feedback": "A truly delightful experience. The design and performance exceeded our expectations."
+
+      "feedback": "A truly delightful experience. The design and performance exceeded our expectations.",
+      "brand": "Thomson X"
+    },
+    {
+      "id": 5,
+      "name": "Mou Sultana",
+      "position": "Product Designer",
+
+      "feedback": "Their creative approach and dedication impressed us deeply.",
+      "brand": "Lion Global Investors"
+    },
+    {
+      "id": 6,
+      "name": "Farhan Zaman",
+      "position": "Tech Lead",
+
+      "feedback": "They delivered exactly what we needed in record time!",
+      "brand": "Vulcan Post"
+    },
+    {
+      "id": 7,
+      "name": "Nadia Haque",
+      "position": "Operations Head",
+
+      "feedback": "Great collaboration and smooth communication throughout.",
+      "brand": "Allianz"
+    },
+    {
+      "id": 8,
+      "name": "Rafiq Hasan",
+      "position": "App Developer",
+    "feedback": "Highly professional team with strong technical skills.",
+      "brand": "greenpacket"
+    },
+    {
+      "id": 9,
+      "name": "Sumaiya Jahan",
+      "position": "UI/UX Specialist",
+      "image": "https://i.ibb.co/G0kKP7n/client9.jpg",      "feedback": "Their UI designs elevated our product appeal significantly.",
+      "brand": "Vsmash"
+    },
+    {
+      "id": 10,
+      "name": "Hasan Ali",
+      "position": "Business Analyst",
+
+      "feedback": "Impressive problem-solving ability and great teamwork.",
+      "brand": "Ministry of Education"
+    },
+    {
+      "id": 11,
+      "name": "Nusrat Rahman",
+      "position": "Sales Executive",
+
+      "feedback": "Reliable, quick, and always available when we needed them.",
+      "brand": "AIA"
+    },
+    {
+      "id": 12,
+      "name": "Ashraful Hossain",
+      "position": "Full Stack Developer",
+      "feedback": "The code quality and documentation were superb.",
+      "brand": "Forefront"
+    },
+    {
+      "id": 13,
+      "name": "Shirin Alam",
+      "position": "PR Manager",
+      "feedback": "They brought our vision to life beautifully!",
+      "brand": "DBS"
+    },
+    {
+      "id": 14,
+      "name": "Omar Faruk",
+      "feedback": "Strong analytics capability and attention to detail.",
+      "brand": "OCBC Bank"
     }
   ]
   
