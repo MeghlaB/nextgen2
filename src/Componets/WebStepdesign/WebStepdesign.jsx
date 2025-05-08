@@ -99,7 +99,7 @@ const WebDesignSteps = () => {
               <div className="border-2 border-orange-500 text-orange-500 font-bold px-3 py-1 rounded text-sm">
                 {step.number}
               </div>
-              <h3 className="font-bold uppercase text-sm">{step.title}</h3>
+              <h3 className="font-bold uppercase text-sm">{step.title}   <span className="text-orange-600 justify-end">   -------</span></h3>
             </div>
             <ul className="space-y-2 text-gray-700 text-sm leading-relaxed">
               {step.points.map((point, idx) => (
