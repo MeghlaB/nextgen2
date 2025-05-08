@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Gamers Review",
+        "cover": "https://i.ibb.co.com/kdFH5Kt/ss-1.png",
+        "liveUrl": "https://jade-sprinkles-2cf46d.netlify.app/"
+    },
+    {
+        "title": "Discount PRO",
+        "cover": "https://i.ibb.co.com/4RGPJjv5/ss-2.png",
+        "liveUrl": "https://cupon-discount.netlify.app/"
+    },
+    {
+        "title": "Peddy",
+        "cover": "https://i.ibb.co.com/fdkMtVh9/ss-3.png",
+        "liveUrl": "https://peddy-1002.netlify.app/"
+    },
+    {
+        "title": "Car Rental",
+        "cover": "https://i.ibb.co.com/TB0rKCRS/ss-4.png",
+        "liveUrl": "https://cerulean-kitten-16952f.netlify.app/"
+    },
+    {
+      "title":"Lost OF Items",
+        "cover":"https://i.ibb.co.com/5Wjdr3N0/ss-5.png",
+        "liveUrl":"https://assingment11lostfound.web.app"  
+    },
+    {
+      "title":"Blood-Donations",
+        "cover":"https://i.ibb.co.com/sJ58zczv/ss-6.png",
+        "liveUrl":"https://blood-donation-6ebb1.web.app"  
+    },
+    {
+        "title":"BPL-DREAM",
+          "cover":"https://i.ibb.co.com/YTdXm5Fq/ss-7.png",
+          "liveUrl":"https://vengeful-lawyer.surge.sh/"  
+      },
+    {
+        "title":"Gadget-Heaven",
+          "cover":"https://i.ibb.co.com/BH7czS4V/ss-8.png",
+          "liveUrl":"https://productsheaven.netlify.app/"  
+      },{
+        "title":"Winter-Donations",
+        "cover":"https://i.ibb.co.com/Xv1ZjP8/ss-9.png",
+        "liveUrl":"https://assingment-09-b60dc.web.app/"  
+      }
+    
+]

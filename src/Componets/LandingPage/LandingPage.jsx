@@ -10,6 +10,7 @@ import Webcontact from '../Webcontact/Webcontact'
 import DeviceShowcase from '../DeviceShowcase/DeviceShowcase'
 import CyberSecuritySection from '../CyberSecuritySection/CyberSecuritySection'
 import ClientTestimonial from '../ClientTestimonial/ClientTestimonial'
+import OurPortfolio from '../Protfolio/OurPortfolio'
 
 function LandingPage() {
   return (
@@ -23,6 +24,7 @@ function LandingPage() {
       <DeviceShowcase/>
       <CyberSecuritySection/>
       <ClientTestimonial/>
+      <OurPortfolio/>
       <Questions/>
     </div>
   )
