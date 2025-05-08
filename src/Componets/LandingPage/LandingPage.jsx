@@ -12,6 +12,7 @@ import CyberSecuritySection from '../CyberSecuritySection/CyberSecuritySection'
 import ClientTestimonial from '../ClientTestimonial/ClientTestimonial'
 import OurPortfolio from '../Protfolio/OurPortfolio'
 import GreatWebsiteSection from '../GreatWebsiteSection/GreatWebsiteSection'
+import FreeTips_Tricks from '../FreeTips&Tricks/FreeTips&Tricks'
 
 function LandingPage() {
   return (
@@ -27,6 +28,7 @@ function LandingPage() {
       <ClientTestimonial/>
       <OurPortfolio/>
       <GreatWebsiteSection/>
+      <FreeTips_Tricks/>
       <Questions/>
     </div>
   )
