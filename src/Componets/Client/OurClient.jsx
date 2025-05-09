@@ -22,8 +22,8 @@ export default function ClientsSection() {
   ];
 
   return (
-    <section className="relative bg-black text-white py-20 overflow-hidden  ">
-     
+    <section className="relative bg-black text-white py-20 overflow-hidden">
+      {/* Left SVG */}
       <img
         src="/decor-left.svg"
         alt="Left Decoration"
@@ -42,23 +42,24 @@ export default function ClientsSection() {
         <h3 className="text-orange-500 text-sm font-semibold tracking-wide uppercase">
           Our Clients
         </h3>
-        <h2 className="text-4xl sm:text-5xl font-bold mt-2 mb-4">
+        <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mt-2 mb-4 leading-tight">
           Clients Who Trust Our <span className="text-white">Expertise</span>
           <span className="text-orange-500">.</span>
         </h2>
-        <p className="text-gray-400 max-w-3xl mx-auto text-lg">
+        <p className="text-gray-400 max-w-3xl mx-auto text-base sm:text-lg">
           Whether you’re an MNC, SME or startup, looking to make an impact in
-          Singapore and beyond, rest assured that we're a web design &
-          development company that will give you the right support you need.
+          Singapore and beyond, rest assured that we're a web design & development
+          company that will give you the right support you need.
         </p>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 mt-16">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 sm:gap-8 mt-16">
           {clients.map((name, idx) => (
             <div
               key={idx}
-              className="flex items-center justify-center h-20 bg-neutral-900 rounded-lg shadow-md hover:scale-105 transition-transform"
+              aria-label={`Client: ${name}`}
+              className="flex items-center justify-center h-20 bg-neutral-900 rounded-lg shadow-md hover:scale-105 transition-transform duration-300"
             >
-              <span className="text-white font-semibold  rounded-lg px-4 py-2">
+              <span className="text-white font-semibold text-center text-sm sm:text-base px-4 py-2">
                 {name}
               </span>
             </div>

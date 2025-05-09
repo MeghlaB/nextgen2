@@ -17,7 +17,7 @@ function ClientTestimonial() {
   }, []);
 
   return (
-    <div className="container mx-auto py-6 text-white h-[600px]">
+    <div className="container mx-auto py-6 text-white h-[800px] md:h-[600px]">
       <div className="text-center space-y-3">
         <h1 className="text-orange-500 text-2xl font-bold">Testimonials</h1>
         <div>

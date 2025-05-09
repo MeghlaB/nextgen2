@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Webcontact() {
   return (
     <div className='py-12 bg-white '>
-      <div className='max-w-6xl bg-black mx-auto border rounded-2xl h-[300px]'>
+      <div className='max-w-6xl bg-black mx-auto border rounded-2xl h-[450px] md:h-[300px]'>
       <div>
       
       <div className='text-center text-white py-8'>
