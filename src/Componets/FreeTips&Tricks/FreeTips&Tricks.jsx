@@ -4,7 +4,7 @@ const FreeTips_Tricks = () => {
   return (
     <section className="bg-[#FFF6F1] py-20 px-6">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-10 items-center">
-        {/* Left: Image Card */}
+   
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -12,20 +12,20 @@ const FreeTips_Tricks = () => {
           viewport={{ once: true }}
           className="bg-[#001e36] text-white p-8 rounded-xl shadow-lg flex flex-col justify-center items-center text-center"
         >
-          {/* Replace with your actual image if needed */}
+          
           <div className="text-green-400 text-5xl font-bold mb-2">12</div>
           <p className="font-semibold text-lg leading-snug mb-6">
             WordPress Website <br />
             Maintenance Checklist. <br />
             12 Must-Do Tasks.
           </p>
-          {/* Icon and visual illustration */}
+        
           <div className="mt-4">
         
           </div>
         </motion.div>
 
-        {/* Right: Text & Form */}
+    
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}

@@ -67,7 +67,7 @@ const GreatWebsiteSection = () => {
         </div>
       </div>
 
-      {/* Bottom Features */}
+ 
       <div className="mt-20 max-w-4xl mx-auto px-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 text-left text-sm sm:text-base font-medium text-gray-800">
           {[
@@ -87,7 +87,7 @@ const GreatWebsiteSection = () => {
           ))}
         </div>
 
-        {/* CTA Button */}
+        
         <div className="w-full sm:w-[300px] mx-auto mt-10">
           <Link
             to=""
